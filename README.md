@@ -31,3 +31,8 @@ Vozentra is a local Windows x64 voice interpreter with English/Spanish profiles 
 The application source is maintained privately. This repository contains distribution materials; the product is proprietary and third-party components retain their own licenses. The installer includes local models; drivers and other prerequisites come from their vendors. The MSI is not Windows Authenticode signed. Check the published SHA-256 before installing.
 
 Version 0.8.14 introduces Settings → Updates for future releases, verified downloads and install on exit. Earlier versions need a manual installation of 0.8.14. Closing discards pending session audio and transcript. Material changes to terms require the manual installer. See the website for support, terms and privacy in English.
+
+
+## Licencias y créditos / Licenses and credits
+
+[Avisos y fuentes de terceros / Third-party notices and sources](https://eve-voice.pages.dev/licencias.html). La release v0.8.14 adjunta también copias de los cuatro índices/avisos incluidos en el MSI, sin modificar el instalador. / The release also includes copies of the four notice/source indexes shipped in the MSI; the installer bytes are unchanged.
