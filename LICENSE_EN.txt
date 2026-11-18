@@ -1,0 +1,29 @@
+Vozentra — Free edition terms
+Revision free-2026-11-17. Rights holder: Matias Alexander Polhwein Lara, an individual based in Chile.
+Contact: polhwein.matias@gmail.com.
+English translation of the Spanish terms.
+
+License to use
+The rights holder authorizes anyone obtaining this edition through official channels to install and use it free of charge on their computers for personal or professional purposes and keep backup copies for that use. The license is nonexclusive and transfers no ownership of the product. This edition does not automatically become a paid subscription. Future paid editions will have their own terms and require an express agreement.
+
+Distribution and components
+Only the rights holder or someone with express written authorization may distribute the MSI, proprietary code and Vozentra manuals. You may consult and copy manuals for authorized use. Trademark rights remain with their holder.
+Third-party libraries, models and other components retain their own licenses, permissions, notices and access to source where applicable. See installer/THIRD_PARTY_NOTICES.md and installer/THIRD_PARTY_SOURCES.md. These terms respect those rights and mandatory legal rights. Earlier copies supplied under other licenses keep their original terms.
+External drivers and services are obtained under their providers' conditions. VB-Audio requires paid licenses for professional use of its virtual cables. The free license for this Vozentra edition applies to the proprietary product.
+
+Calls and limitations
+You decide when and in which calls to enable Vozentra. You are responsible for lawful use, informing participants and obtaining required permissions before processing speech. You are also responsible for any recording or disclosure you perform yourself. If someone objects or withdraws permission required to continue, stop interpretation. This clause applies to decisions and actions within your control and respects rights and duties under applicable law.
+Recognition, translation and synthesized speech can contain errors, omissions or delays. Verify important instructions and decisions with participants. Compatibility with each calling application depends on its devices and settings.
+The rights holder remains responsible for obligations under applicable law. These terms do not exclude mandatory rights or transfer responsibility for the holder's own actions to the user.
+
+Data, support and news
+The current edition processes call audio and transcripts locally and keeps them in memory during the session. Settings and glossaries are stored on the PC. See PRIVACIDAD.html for details, support and data rights. Marketing subscriptions require separate authorization.
+You may request support using the contact above. No response time, permanent availability or universal compatibility is guaranteed. Information you share for support is processed under the privacy notice.
+
+Updates
+The app may check a signed catalogue over HTTPS for new versions. You can disable automatic checks in Settings and check manually. The hosting provider processes technical data needed for the connection. Checks do not send audio, transcripts or your email.
+You request download and installation from the app. You may prepare installation on exit or start it while the session is inactive. Closing or restarting discards that session's transcript and pending audio. The updater verifies packages, preserves preferences and prepares a recovery package. Updates can fail due to Windows or computer conditions, so keep preference backups.
+Material changes to terms require acceptance before installation. The integrated updater directs you to the manual installer when the release changes the supported terms revision. Updates retain the usage conditions specified for the edition you receive.
+
+Duration
+You may stop using and uninstall Vozentra at any time. Breach of these terms may terminate affected permissions under applicable law. Third-party and mandatory legal rights remain effective.

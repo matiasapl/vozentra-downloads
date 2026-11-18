@@ -1,0 +1,28 @@
+Vozentra — Términos de la edición gratuita
+Revisión free-2026-11-17. Titular: Matias Alexander Polhwein Lara, persona natural en Chile.
+Contacto: polhwein.matias@gmail.com.
+
+Licencia de uso
+El titular autoriza a quien obtenga esta edición desde sus canales oficiales a instalarla y utilizarla gratuitamente en sus equipos, para fines personales o profesionales, y conservar copias de respaldo para ese uso. La licencia es no exclusiva y no transfiere la propiedad del producto. Esta edición no se convierte automáticamente en una suscripción pagada. Las futuras ediciones de pago tendrán sus propias condiciones y requerirán una contratación expresa.
+
+Distribución y componentes
+Solo el titular o quien cuente con su autorización expresa por escrito puede distribuir el MSI, el código propio y los manuales de Vozentra. Puedes consultar y copiar los manuales para tu uso autorizado. Los derechos sobre la marca permanecen con su titular.
+Las bibliotecas, modelos y demás componentes de terceros conservan sus propias licencias, permisos, avisos y acceso a fuentes cuando corresponda. Consulta installer/THIRD_PARTY_NOTICES.md e installer/THIRD_PARTY_SOURCES.md. Estos términos respetan esos derechos y los derechos irrenunciables previstos por la ley. Las copias de versiones anteriores concedidas bajo otras licencias conservan sus términos originales.
+Los controladores y servicios externos se obtienen bajo las condiciones de sus proveedores. VB-Audio exige licencia pagada para uso profesional de sus cables virtuales. La gratuidad de esta edición de Vozentra se aplica al producto propio.
+
+Uso en llamadas y limitaciones
+Tú decides cuándo y en qué llamadas activas Vozentra. Eres responsable de usarla de forma lícita, informar a los participantes y obtener las autorizaciones que correspondan antes de procesar su voz. También eres responsable de cualquier grabación o divulgación que realices por tu cuenta. Si una persona se opone o retira una autorización necesaria para continuar, detén la interpretación. Esta cláusula se aplica a las decisiones y acciones bajo tu control y respeta los derechos y obligaciones que establece la ley.
+El reconocimiento, la traducción y la voz sintetizada pueden contener errores, omisiones o retrasos. Verifica con los interlocutores las instrucciones y decisiones importantes. La compatibilidad con cada programa de llamadas depende de sus dispositivos y configuración.
+El titular responde por las obligaciones que le correspondan conforme a la ley aplicable. Estos términos no excluyen derechos irrenunciables ni trasladan al usuario la responsabilidad por actos propios del titular.
+
+Datos, soporte y novedades
+El audio y la transcripción de la edición actual se procesan localmente y permanecen en memoria durante la sesión. Los ajustes y la jerga se guardan en el PC. Consulta PRIVACIDAD.html para los detalles, soporte y ejercicio de derechos. La suscripción a comunicaciones comerciales requiere una autorización independiente.
+Puedes solicitar soporte en el contacto indicado. No se garantiza un plazo de respuesta, disponibilidad permanente ni compatibilidad universal. La información que compartas para recibir soporte se trata conforme al aviso de privacidad.
+
+Actualizaciones
+La aplicación puede consultar por HTTPS un catálogo firmado para conocer nuevas versiones. Puedes desactivar la comprobación automática en Ajustes y buscar versiones manualmente. El proveedor de alojamiento procesa los datos técnicos necesarios para la conexión. La consulta no transmite audio, transcripciones ni tu correo.
+La descarga y la instalación se realizan a tu solicitud desde la aplicación. Puedes preparar la instalación para el cierre o iniciarla cuando la sesión esté inactiva. Cerrar o reiniciar descarta la transcripción y el audio pendientes de esa sesión. El actualizador verifica los paquetes, conserva los ajustes y prepara un paquete de recuperación. Una actualización puede fallar por condiciones del equipo o de Windows, por lo que conviene conservar respaldos de tus preferencias.
+Los cambios materiales de términos requieren aceptación antes de instalar. El actualizador integrado remite al instalador manual cuando la versión cambia la revisión de términos admitida. Las actualizaciones mantienen las condiciones de uso indicadas para la edición recibida.
+
+Vigencia
+Puedes dejar de utilizar y desinstalar Vozentra en cualquier momento. El incumplimiento de estas condiciones puede dar lugar a la terminación de los permisos afectados conforme a la ley. Los derechos de terceros y los derechos irrenunciables permanecen vigentes.
