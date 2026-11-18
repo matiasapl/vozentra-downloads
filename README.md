@@ -6,6 +6,7 @@ Intérprete de voz local para Windows x64. Habla en español y recibe voz en ing
 
 - [Descargar el MSI](https://github.com/matiasapl/vozentra-downloads/releases/download/v0.8.19/Vozentra-Gratis-0.8.19-x64.msi)
 - [Manual de usuario ES/EN](https://eve-voice.pages.dev/manual.html)
+- [Manual ilustrado sin conexión / Illustrated offline manual](https://github.com/matiasapl/vozentra-downloads/releases/download/v0.8.19/Manual-Vozentra-0.8.19-ilustrado.html)
 - [Web y requisitos](https://eve-voice.pages.dev/)
 - [Soporte y contacto](https://eve-voice.pages.dev/ayuda.html)
 - [Términos](https://eve-voice.pages.dev/terminos.html) · [Privacidad](https://eve-voice.pages.dev/privacidad.html)
