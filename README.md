@@ -2,9 +2,9 @@
 
 Intérprete de voz local para Windows x64. Habla en español y recibe voz en inglés, o invierte el perfil. Incluye jerga personalizable y funciona mediante dispositivos de audio virtuales.
 
-**Beta gratuita 0.8.17.** Sin paquete de jerga por defecto; EVE incluido para selección manual. Se conservan las selecciones guardadas. La precisión, la latencia y la compatibilidad dependen del equipo y de la llamada. Primera instalación en otro PC y pruebas prolongadas siguen en validación.
+**Beta gratuita 0.8.19.** Ajustes y Ayuda con secciones y buscador; selector superior que cambia idioma hablado e interfaz juntos. Sin paquete de jerga por defecto; EVE incluido para selección manual. Se conservan las selecciones guardadas. La precisión, la latencia y la compatibilidad dependen del equipo y de la llamada. Primera instalación en otro PC y pruebas prolongadas siguen en validación.
 
-- [Descargar el MSI](https://github.com/matiasapl/vozentra-downloads/releases/download/v0.8.17/Vozentra-Gratis-0.8.17-x64.msi)
+- [Descargar el MSI](https://github.com/matiasapl/vozentra-downloads/releases/download/v0.8.19/Vozentra-Gratis-0.8.19-x64.msi)
 - [Manual de usuario ES/EN](https://eve-voice.pages.dev/manual.html)
 - [Web y requisitos](https://eve-voice.pages.dev/)
 - [Soporte y contacto](https://eve-voice.pages.dev/ayuda.html)
@@ -14,10 +14,10 @@ Este repositorio distribuye instaladores, manuales, hashes y notas de versión. 
 
 El instalador incluye los modelos locales. Los controladores de audio virtual y otros requisitos se obtienen desde sus proveedores, con sus propias condiciones. El MSI no tiene firma Authenticode de Windows; puede aparecer una advertencia de editor desconocido. No instales un archivo si no coincide con el hash publicado.
 
-SHA-256 de Vozentra-Gratis-0.8.17-x64.msi:
+SHA-256 de Vozentra-Gratis-0.8.19-x64.msi:
 
 ```text
-35dc8e1df4bc3f655dd0690dab71e7e8392326ab37674ef010298a3e0ba54538
+a38c5ef240af526f8dcc9c59cb835e4410e485490226713df15d7042394a38f0
 ```
 
 Para actualizar desde 0.8.14, descarga el MSI nuevo, cierra Vozentra y ejecútalo conservando su nombre. Esta versión se ofrece como descarga manual mientras se valida la migración del actualizador anterior. Cerrar la aplicación descarta audio y transcripción pendientes. Los términos materiales nuevos requieren aceptación mediante instalador.
@@ -26,7 +26,7 @@ Para actualizar desde 0.8.14, descarga el MSI nuevo, cierra Vozentra y ejecútal
 
 ## English
 
-Vozentra is a local Windows x64 voice interpreter with English/Spanish profiles and custom glossaries. **Free beta 0.8.17.** No glossary pack by default; EVE is optional and manually selected. Saved selections are preserved. Download the MSI above, follow the bilingual manual, and configure the required audio devices. Accuracy and latency vary. Installation on another PC and extended testing remain under validation.
+Vozentra is a local Windows x64 voice interpreter with English/Spanish profiles and custom glossaries. **Free beta 0.8.19.** Searchable Settings and Help; a top selector changes spoken and interface language together. No glossary pack by default; EVE is optional and manually selected. Saved selections are preserved. Download the MSI above, follow the bilingual manual, and configure the required audio devices. Accuracy and latency vary. Installation on another PC and extended testing remain under validation.
 
 The application source is maintained privately. This repository contains distribution materials; the product is proprietary and third-party components retain their own licenses. The installer includes local models; drivers and other prerequisites come from their vendors. The MSI is not Windows Authenticode signed. Check the published SHA-256 before installing.
 
@@ -35,4 +35,4 @@ To update from 0.8.14, download the new MSI, close Vozentra and run it without r
 
 ## Licencias y créditos / Licenses and credits
 
-[Avisos y fuentes de terceros / Third-party notices and sources](https://eve-voice.pages.dev/licencias.html). La release v0.8.17 adjunta también copias de los cuatro índices/avisos incluidos en el MSI, sin modificar el instalador. / The release also includes copies of the four notice/source indexes shipped in the MSI; the installer bytes are unchanged.
+[Avisos y fuentes de terceros / Third-party notices and sources](https://eve-voice.pages.dev/licencias.html). La release v0.8.19 adjunta también copias de los cuatro índices/avisos incluidos en el MSI, sin modificar el instalador. / The release also includes copies of the four notice/source indexes shipped in the MSI; the installer bytes are unchanged.
